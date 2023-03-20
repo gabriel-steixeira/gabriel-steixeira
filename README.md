@@ -1,6 +1,6 @@
 ## Olá, me chamo `Gabriel` 👋
 
-Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Informação, me interesso por programação e desenvolvimento de sistemas, infraestrutura e cloud, busco consolidar meus conhecimentos nessas áreas. Sou dedicado e esforçado com meus compromissos, atualmente busco uma oportunidade para ganhar experiência na área de TI.
+Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Informação, gosto muito de programação, busco sempre novos conhecimentos nessa área. Sou dedicado e esforçado com meus compromissos, atualmente busco uma oportunidade para ganhar experiência na área de TI.
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-gt&show_icons=true&theme=transparent" />
