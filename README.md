@@ -30,3 +30,8 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
   <img width="50em" style="margin: 0px auto" src="https://icongr.am/simple/mysql.svg?size=128&color=currentColor&colored=true" />
   <img width="50em" style="margin: 0px auto" src="https://icongr.am/simple/git.svg?size=128&color=currentColor&colored=true" />
 </div>
+
+### Estudando
+<div style="display: inline_block">
+  <img width="50em" style="padding: 15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
