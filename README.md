@@ -24,6 +24,7 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 <div style="display: inline_block">
   <img width="50em" style="padding: 15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50em" style="margin: 0px auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50em" style="margin: 0px auto" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6e2cf2" />  
   <img width="50em" style="margin: 0px auto" src="https://icongr.am/simple/javascript.svg?size=128&color=currentColor&colored=true" />
   <img width="50em" style="margin: 0px auto" src="https://icongr.am/simple/php.svg?size=128&color=currentColor&colored=true" />
   <img width="50em" style="margin: 0px auto" src="https://icongr.am/simple/laravel.svg?size=128&color=currentColor&colored=true" />
@@ -33,5 +34,6 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 
 ### Estudando
 <div style="display: inline_block">
+  <img width="50em" style="padding: 15em" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
   <img width="50em" style="padding: 15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
