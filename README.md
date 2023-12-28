@@ -15,7 +15,7 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 - No momento estou adquirindo experiência como Analista de Sistemas Júnior com C# usando ASP.NET Framework MVC, com o Banco de Dados Oracle e em contato com a certificação ISO 9001 (Gestão de Qualidade).
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/bielgt/"><img width="100em" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-steixeira"><img width="100em" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gabrielsouzat2005@outlook.com"><img width="150em" height="30em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511976570086&text=Ol%C3%A1%20Gabriel,%20tudo%20bem?%20Peguei%20seu%20contato%20no%20GitHub"><img width="120em"  height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
