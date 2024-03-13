@@ -11,7 +11,7 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 
 ### Um pouco sobre mim:
 - Formado Técnico em Desenvolvimento de Sistemas pela ETEC
-- Cursando Sistemas de Informação na FIAP (2/8)
+- Cursando Sistemas de Informação na FIAP (3/8)
 - No momento estou adquirindo experiência como Analista de Sistemas Júnior com C# usando ASP.NET Framework MVC, com o Banco de Dados Oracle e em contato com a certificação ISO 9001 (Gestão de Qualidade).
 
 <div style="display: inline_block">
