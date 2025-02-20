@@ -1,6 +1,6 @@
 ## Olá, me chamo `Gabriel` 👋
 
-Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Informação, gosto muito de programação, busco sempre novos conhecimentos nessa área. Sou dedicado e esforçado com meus compromissos, atualmente atuo como Analista de Sistemas Jr no Núcleo Especializado em Tecnologia da Informação (NETi) prestando serviço para a Fundação Faculdade de Medicina, a 5º maior ONG do Brasil segundo a ONGs Brasil (https://www.ongsbrasil.com.br/default.asp?Pag=43).
+Sou apaixonado por tecnologia e aprendizado contínuo. Com 2 anos de experiência como Analista de Sistemas no Hospital das Clínicas da Faculdade de Medicina da USP, venho desenvolvendo soluções eficientes em C# com ASP.NET Framework MVC, além de trabalhar com bancos de dados robustos como Oracle.
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-steixeira&show_icons=true&theme=transparent" />
@@ -10,9 +10,20 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 ##
 
 ### Um pouco sobre mim:
-- Formado Técnico em Desenvolvimento de Sistemas pela ETEC
-- Cursando Sistemas de Informação na FIAP (3/8)
-- No momento estou adquirindo experiência como Analista de Sistemas Júnior com C# usando ASP.NET Framework MVC, com o Banco de Dados Oracle e em contato com a certificação ISO 9001 (Gestão de Qualidade).
+#### Formação e Especializações:
+- Técnico em Desenvolvimento de Sistemas pela ETEC.
+- Especialista Técnico em Gestão de Projetos pela ETEC.
+- Estudante de Sistemas de Informação na FIAP (5º semestre).
+
+#### Principais Habilidades:
+- Desenvolvimento Back-End em C# com ASP.NET.
+- Experiência com bancos de dados Oracle, SQL Server e MySQL.
+- Conhecimento em Front-End com Bootstrap, jQuery e frameworks como Metro UI CSS.
+- Noções básicas de PHP e Laravel.
+
+Além do meu trabalho técnico, também me dedico ao aprimoramento das minhas habilidades em inglês, buscando expandir meu alcance profissional e pessoal.
+
+Estou sempre em busca de novos desafios que me permitam aplicar meus conhecimentos e aprender ainda mais. Vamos conectar e compartilhar ideias!
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/gabriel-steixeira"><img width="100em" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,7 +33,6 @@ Amo estudar e aprender, principalmente o que é relacionado à Tecnologia da Inf
 
 ### Tecnologias
 <div style="display: inline_block">
-  <img width="50em" style="" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
   <img width="50em" style="" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6e2cf2" />  
   <img width="50em" style="" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img width="50em" style="" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />
